@@ -26,10 +26,11 @@ Inventory Management System has a Following Functionalities:
 - Approve vendor requests
 
 **Technologies Used**
-Programming Language: Java
-Frontend: HTML, CSS, JavaScript
-Backend: Java, JSP (JavaServer Pages), JDBC (Java Database Connectivity)
-Database(Relational): MySQL
+
+-Programming Language: Java
+-Frontend: HTML, CSS, JavaScript
+-Backend: Java, JSP (JavaServer Pages), JDBC (Java Database Connectivity)
+-Database(Relational): MySQL
 
 
 
